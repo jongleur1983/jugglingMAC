@@ -1,0 +1,14 @@
+#searchbar { 
+  display: block; 
+  padding: 15px 0px; 
+} 
+
+/* custom settings */ 
+.token-input-token p { 
+  font-size: 1.0em; 
+  color: #555; 
+} 
+
+.token-input-selected-token p { 
+  color: #fff; 
+}
